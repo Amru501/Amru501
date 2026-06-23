@@ -3,14 +3,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=24&pause=1000&color=4FC3F7&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Mobile+Development+Enthusiast;Aspiring+Game+Developer;Exploring+AI+and+Open+Source" />
 </p>
-
-<p align="center">
-  🚀 Full-Stack Developer <br>
-  📱 Mobile Development Enthusiast <br>
-  🎮 Aspiring Game Developer <br>
-  🤖 Exploring AI and Open Source
-</p>
-
 <p align="center">
   <b>Building things, learning constantly, and enjoying the process ✨</b>
 </p>
